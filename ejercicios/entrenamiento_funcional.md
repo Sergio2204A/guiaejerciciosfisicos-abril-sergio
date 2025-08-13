@@ -6,3 +6,5 @@ El entrenamiento funcional se basa en ejercicios que imitan movimientos de la vi
 ## beneficios 
 Mejora la fuerza, la flexibilidad, el equilibrio, la postura y la agilidad, además de reducir el riesgo de lesiones. También puede aumentar la motivación y el disfrute del ejercicio, así como mejorar la concentración mental. 
 
+## instrucciones 
+Mejora la fuerza, la flexibilidad, el equilibrio, la postura y la agilidad, además de reducir el riesgo de lesiones. También puede aumentar la motivación y el disfrute del ejercicio, así como mejorar la concentración mental. 
