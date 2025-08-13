@@ -8,3 +8,6 @@ El ciclismo ofrece una amplia gama de beneficios para la salud física y mental.
 
 ## instrucciones
 Para un buen entrenamiento en bicicleta, es fundamental calentar, pedalear con técnica adecuada, y mantener una buena hidratación y alimentación. Además, es importante respetar las normas de tránsito y el entorno.
+
+## consejos
+Para empezar a practicar ciclismo, es fundamental calentar adecuadamente, mantener una distancia segura con otros ciclistas, usar equipo de protección como casco y ropa reflectante, y conocer las rutas antes de salir.
