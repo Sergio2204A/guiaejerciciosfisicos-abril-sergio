@@ -8,3 +8,6 @@ La natación es un ejercicio que involucra el desplazamiento del cuerpo a travé
 
 ## beneficios 
 La natación ofrece numerosos beneficios para la salud física y mental. Entre ellos, destaca el fortalecimiento muscular, la mejora de la salud cardiovascular y respiratoria, la reducción del estrés, y el aumento de la flexibilidad
+
+## consejos
+Para nadar de manera segura y efectiva, es importante seguir algunos consejos clave. Primero, realiza un calentamiento adecuado antes de entrar al agua para preparar tu cuerpo y prevenir lesiones.
