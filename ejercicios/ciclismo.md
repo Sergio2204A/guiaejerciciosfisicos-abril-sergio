@@ -6,3 +6,5 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 ## beneficios 
 El ciclismo ofrece una amplia gama de beneficios para la salud física y mental. Es una excelente forma de ejercicio cardiovascular, que ayuda a fortalecer el corazón y mejorar la circulación sanguínea.
 
+## instrucciones
+Para un buen entrenamiento en bicicleta, es fundamental calentar, pedalear con técnica adecuada, y mantener una buena hidratación y alimentación. Además, es importante respetar las normas de tránsito y el entorno.
