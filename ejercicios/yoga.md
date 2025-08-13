@@ -5,3 +5,4 @@ Algunos consejos clave incluyen calentar adecuadamente, enfocarse en la técnica
 
 ## beneficios
 El yoga es una práctica que integra cuerpo, respiración y mente, utilizando posturas físicas, ejercicios de respiración y meditación para mejorar la salud general y reducir el estrés.
+
