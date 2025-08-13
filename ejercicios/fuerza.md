@@ -8,3 +8,6 @@ Los ejercicios de fuerza ofrecen múltiples beneficios para la salud física y m
 
 ## Instrucciones
 Para ejercicios de fuerza, es crucial enfocarse en la técnica correcta, elegir un peso adecuado, y mantener una respiración constante
+
+## consejos 
+Para consejos efectivos de entrenamiento de fuerza, es crucial comenzar con una técnica correcta, aumentar gradualmente la intensidad, descansar lo suficiente entre series y ejercicios, y ser constante en tu rutina
