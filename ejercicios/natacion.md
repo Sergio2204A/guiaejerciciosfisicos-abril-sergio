@@ -5,3 +5,6 @@ Primero, calienta adecuadamente antes de entrar al agua para preparar los múscu
 
 ## descripcion 
 La natación es un ejercicio que involucra el desplazamiento del cuerpo a través del agua utilizando los movimientos coordinados de brazos y piernas.
+
+## beneficios 
+La natación ofrece numerosos beneficios para la salud física y mental. Entre ellos, destaca el fortalecimiento muscular, la mejora de la salud cardiovascular y respiratoria, la reducción del estrés, y el aumento de la flexibilidad
