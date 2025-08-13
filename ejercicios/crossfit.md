@@ -8,3 +8,6 @@ El boxeo ofrece una amplia gama de beneficios, tanto físicos como mentales. Ent
 
 ## instrucciones
 Para comenzar con el boxeo, es crucial aprender la postura correcta, el movimiento de pies (paso adelante, atrás, lateral), y los golpes básicos como el jab y el directo. También es importante practicar la coordinación de movimientos, como la combinación de pasos y golpes, y la transferencia de peso al golpear. 
+
+## consejos 
+Para empezar y progresar en CrossFit, es crucial priorizar la técnica sobre la velocidad, escuchar a tu cuerpo, y calentar adecuadamente antes de cada entrenamiento. También es importante ser paciente, establecer metas realistas y disfrutar del proceso. 
