@@ -5,3 +5,8 @@ Los ejercicios de Pilates son un sistema de entrenamiento físico y mental que s
 
 ## beneficios
 aumento de la fuerza muscular, especialmente en el core, la mejora de la flexibilidad y el equilibrio, así como la postura y la coordinación. Además, Pilates ayuda a reducir el estrés, mejorar la conciencia corporal y prevenir lesiones. 
+
+## instrucciones 
+ Los ejercicios deben realizarse con control, precisión y conciencia corporal, enfocándose en la respiración y la activación del centro (core). Es recomendable comenzar con movimientos suaves y progresar gradualmente, prestando atención a la alineación y evitando movimientos bruscos. 
+
+ 
