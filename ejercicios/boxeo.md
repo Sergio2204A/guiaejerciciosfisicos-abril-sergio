@@ -8,3 +8,6 @@ la mejora de la salud cardiovascular, la quema de calorías y la pérdida de pes
 
 ## instrucciones
 aprender la postura correcta, el movimiento de pies (paso adelante, atrás, lateral), y los golpes básicos como el jab y el directo. También es importante practicar la coordinación de movimientos, como la combinación de pasos y golpes, y la transferencia de peso al golpear. 
+
+## consejos 
+Para consejos efectivos en entrenamiento de boxeo, enfócate en la técnica, postura, movimiento constante, respiración y mentalidad. Además, recuerda usar equipo de protección adecuado, calentar antes de cada sesión, y ser constante en tu entrenamiento. 
