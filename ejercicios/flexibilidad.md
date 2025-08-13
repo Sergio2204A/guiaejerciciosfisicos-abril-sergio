@@ -9,3 +9,5 @@ El entrenamiento de la flexibilidad ofrece numerosos beneficios para la salud f�
 ## instrucciones 
 Para mejorar la flexibilidad, es importante realizar ejercicios de estiramiento de forma segura y regular. Se recomienda calentar antes de estirar, realizar estiramientos suaves y lentos, mantener la posición por unos segundos, y repetir los ejercicios varias veces.
 
+## consejos 
+Se recomienda calentar los músculos antes de estirar, mantener los estiramientos de forma suave y lenta, respirar profundamente durante cada estiramiento, y evitar rebotes o movimientos bruscos.
