@@ -5,3 +5,6 @@ El boxeo es un deporte de combate donde dos oponentes se enfrentan en un cuadril
 
 ## beneficios
 la mejora de la salud cardiovascular, la quema de calorías y la pérdida de peso, el fortalecimiento muscular, la mejora de la coordinación y los reflejos, la reducción del estrés y la mejora de la autoestima. 
+
+## instrucciones
+aprender la postura correcta, el movimiento de pies (paso adelante, atrás, lateral), y los golpes básicos como el jab y el directo. También es importante practicar la coordinación de movimientos, como la combinación de pasos y golpes, y la transferencia de peso al golpear. 
